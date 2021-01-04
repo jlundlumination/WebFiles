@@ -2,6 +2,6 @@
   <update>
     <latestVersion>1.2.2</latestVersion>
     <latestVersionCode>10</latestVersionCode>
-    <url>"https://drive.google.com/uc?id=1wNiVotTUZuJWivsLK84Ha8ukpdkB9cLr&export=download"</url>
+    <url>https://drive.google.com/uc?id=1wNiVotTUZuJWivsLK84Ha8ukpdkB9cLr&amp;export=download</url>
   </update>
 </AppUpdater>
